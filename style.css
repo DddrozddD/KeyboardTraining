@@ -1,0 +1,22 @@
+.key{
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	border: 1px solid black;
+	text-align: center;
+	margin: 1px;
+	margin-top: 5px;
+	padding-top: 3px;
+	background-color: lightblue;
+}
+.highlighted{
+	background-color: purple;
+}
+.highlighted2{
+	background-color: orange;
+}	
+#ThisText{
+	width: 315px;
+	border: 3px solid black;
+	margin: 3px;
+}
